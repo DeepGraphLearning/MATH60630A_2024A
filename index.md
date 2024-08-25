@@ -22,7 +22,7 @@ team:
 # Information
 
 - **Instructor**: [Jian Tang]
-- **Trimester**: Autumn 2024
+- **Trimester**: Fall 2024
 - **When**:
   - **Class 1**: 3:30 - 6:30 PM EST, Monday
   - **Class 2**: 8:30 - 11:30 AM EST, Friday
