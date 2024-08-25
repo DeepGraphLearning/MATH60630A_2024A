@@ -158,7 +158,6 @@ schedule:
 #        url: https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
 ---
 
-[//]: # (# Schedule for In-class Presentations)
 # Course Schedule
 <table>
   <tr>
