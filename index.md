@@ -33,7 +33,7 @@ team:
   - Jianan Zhao (TA): 10:00 - 11:00 AM EST, Thursday
   - Xinyu Yuan (TA): 10:00 - 11:00 AM EST, Friday
 - **Discord**:
-  - Join the discord for course discussion via [this link](https://discord.gg/DKf2FfHk)
+  - Join the discord for course discussion via [this link](https://discord.gg/FTP7k5Yq)
 
 [Jian Tang]: https://jian-tang.com
 
