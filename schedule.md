@@ -127,9 +127,9 @@ schedule:
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: GAN
-#        url: https://arxiv.org/abs/1406.2661
+        url: https://arxiv.org/abs/1406.2661
       - name: VAE
-#        url: https://arxiv.org/abs/1312.6114
+        url: https://arxiv.org/abs/1312.6114
     presentations:
       - name: TBD
   - date: Nov.<br>18, 15
@@ -137,10 +137,12 @@ schedule:
       - name: Diffusion, text-to-image generation
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
-      - name: CLIP
-#        url: https://arxiv.org/abs/2103.00020
+      - name: DALL·E3
+        url: https://cdn.openai.com/papers/dall-e-3.pdf
       - name: Sora
-#        url: https://arxiv.org/abs/2201.00123
+        url: https://openai.com/index/sora/
+      - name: Kling
+        url: https://kling.kuaishou.com/en
   - date: Nov.<br>25, 22
     topics:
       - name: Graph Representation Learning
