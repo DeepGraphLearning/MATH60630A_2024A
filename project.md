@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATH 60630A Machine Learning II<br>Deep Learning
+title: MATH 60630A - Machine Learning II<br>Deep Learning
 permalink: /project
 ---
 

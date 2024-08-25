@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MATH 60630A - Machine Learning II : Deep Learning"
+title: MATH 60630A - Machine Learning II<br>Deep Learning
 permalink: /schedule
 
 schedule:
