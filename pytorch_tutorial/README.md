@@ -1,7 +1,7 @@
 Useful links:
 
 - [Colab notebook](https://colab.research.google.com/drive/1tQUCZ3JspElIPrNUj1j-zgolibF0Wdru?usp=sharing)
-- [Github repo](https://github.com/DeepGraphLearning/Math60630A_2024a/tree/master/pytorch_tutorial)
+- [Github repo](https://github.com/deepgraphlearning/Math60630A_2024a/tree/master/pytorch_tutorial)
 
 # Environment Set-up
 

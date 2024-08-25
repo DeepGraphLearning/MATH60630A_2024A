@@ -9,7 +9,7 @@ team:
     title: Instructor
     image: assets/images/jian_tang.jpg
   - name: Jianan Zhao
-    url: https://andyjzhao.github.io/
+    url: https://deepgraphlearning.github.io/
     title: Teaching Assistant
     image: assets/images/jianan_zhao.jpeg
   - name: Xinyu Yuan
