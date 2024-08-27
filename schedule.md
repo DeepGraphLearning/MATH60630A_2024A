@@ -7,11 +7,11 @@ schedule:
   - date: Aug.<br>26, 30
     topics:
     - name: Introduction
-#      url: https://www.dropbox.com/s/hbrmctcap9ebo60/Week1-Intro.pdf?dl=0
+      url: assets/slides/Week1-Intro.pdf
     - name: Mathematics
-#      url: https://www.dropbox.com/s/o09puw2vf59uxj5/Week1-Maths.pdf?dl=0
+      url: assets/slides/Week1-Maths.pdf
     - name: Machine Learning Basics
-#      url: https://www.dropbox.com/s/5ntgm9t4ykeq1b7/Week1-ML.pdf?dl=0
+      url: assets/slides/Week1-ML.pdf
     readings:
       - name: Deep Learning Book
       - name: Chap. 2
