@@ -135,8 +135,6 @@ schedule:
         url: https://arxiv.org/abs/1910.10683
       - name: Instruction Tuning
         url: https://arxiv.org/abs/2109.01652
-      - name: Rotary Position Embedding
-        url: https://arxiv.org/abs/2104.09864
       - name: LoRA
         url: https://arxiv.org/abs/2104.09864
       - name: Scaling Law
