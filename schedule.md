@@ -88,11 +88,11 @@ schedule:
       - name: Attention, Transformers
     #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
-      - name: the original Transformer paper
+      - name: The original Transformer paper
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
-      - name: the annotated Transformer blog
+      - name: The annotated Transformer blog
         url: https://nlp.seas.harvard.edu/annotated-transformer/
-      - name: an introduction of Positional Encoding
+      - name: An introduction of Positional Encoding
         url: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
     references:
       - name: ViT
@@ -142,7 +142,7 @@ schedule:
       - name: Large Language Models II - Prompt Tuning
     #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
-      - name: Prompt Engineering (Blog by Lilien Weng)
+      - name: Prompt Engineering (Blog by Lilian Weng)
         url: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
     references:
       - name: Chain-of-Thought
