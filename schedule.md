@@ -41,6 +41,8 @@ schedule:
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
+      - name: Pytorch's official tutorial
+        url: https://pytorch.org/tutorials/beginner/basics/intro.html
       - name: Neural Network from Scratch
         url: https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0
       - name: Dive into Deep Learning
@@ -113,13 +115,17 @@ schedule:
   #        url: https://www.kaggle.com/c/math60630aw21
   - date: Oct.<br>28, 25
     topics:
-      - name: Large Language Models I - Pre-training
+      - name: Large Language Models I - Pre-training and Fine-tuning
     #        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
     readings:
       - name: Survey of Pre-trained LMs
         url: https://arxiv.org/pdf/2302.09419
       - name: LLM Course
         url: https://github.com/mlabonne/llm-course
+      - name: GPT in 60 Lines of NumPy
+        url: https://jaykmody.com/blog/gpt-from-scratch/
+      - name: Fine-Tune Your Own Llama 2 Model in a Colab Notebook
+        url: https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html
     references:
       - name: BERT
         url: https://arxiv.org/pdf/1810.04805
@@ -127,6 +133,8 @@ schedule:
         url: https://arxiv.org/abs/2005.14165
       - name: T5
         url: https://arxiv.org/abs/1910.10683
+      - name: Instruction Tuning
+        url: https://arxiv.org/abs/2109.01652
       - name: Rotary Position Embedding
         url: https://arxiv.org/abs/2104.09864
       - name: LoRA
