@@ -90,13 +90,13 @@ schedule:
       - name: Attention, Transformers
     #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
-      - name: The original Transformer paper
-        url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
-      - name: The annotated Transformer blog
+      - name: The annotated Transformer (blog)
         url: https://nlp.seas.harvard.edu/annotated-transformer/
       - name: An introduction of Positional Encoding
         url: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
     references:
+      - name: Transformer
+        url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
       - name: ViT
         url: https://arxiv.org/abs/2010.11929
       - name: Rotary Position Embedding
