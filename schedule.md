@@ -92,6 +92,8 @@ schedule:
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
       - name: the annotated Transformer blog
         url: https://nlp.seas.harvard.edu/annotated-transformer/
+      - name: an introduction of Positional Encoding
+        url: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
     references:
       - name: ViT
         url: https://arxiv.org/abs/2010.11929
@@ -114,13 +116,15 @@ schedule:
       - name: Large Language Models I - Pre-training
     #        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
     readings:
+      - name: Survey of Pre-trained LMs
+        url: https://arxiv.org/pdf/2302.09419
+      - name: LLM Course
+        url: https://github.com/mlabonne/llm-course
+    references:
       - name: BERT
         url: https://arxiv.org/pdf/1810.04805
       - name: GPT-3
         url: https://arxiv.org/abs/2005.14165
-      - name: Survey of Pre-trained LMs
-        url: https://arxiv.org/pdf/2302.09419
-    references:
       - name: T5
         url: https://arxiv.org/abs/1910.10683
       - name: Rotary Position Embedding
@@ -138,12 +142,17 @@ schedule:
       - name: Large Language Models II - Prompt Tuning
     #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
+      - name: Prompt Engineering (Blog by Lilien Weng)
+        url: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+    references:
       - name: Chain-of-Thought
         url: https://arxiv.org/pdf/2201.11903
       - name: Self Consistency
         url: https://arxiv.org/pdf/2203.11171
       - name: ReAct
         url: https://arxiv.org/pdf/2210.03629
+      - name: Tree of Thoughts
+        url: https://arxiv.org/abs/2305.10601
   - date: Nov.<br>11, 08
     topics:
       - name: Generative Models I
@@ -189,7 +198,7 @@ schedule:
     <th>Date</th>
     <th>Topic</th>
     <th style="width: 45%;">Suggested Readings</th>
-    <th>Reference</th>
+    <th style="width: 35%;">Reference</th>
     <th>Homework</th>
   </tr>
   {% for week in page.schedule %}
@@ -205,7 +214,7 @@ schedule:
         {% include href item=reading %}<br>
       {% endfor %}
       </td>
-      <td>
+      <td style="width: 35%;">
       {% for presentation in week.references %}
         {% include href item=presentation %}<br>
       {% endfor %}
