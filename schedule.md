@@ -73,7 +73,7 @@ schedule:
         url: https://arxiv.org/abs/1412.3555
       - name: DenseNet
         url: https://arxiv.org/abs/1608.06993
-  - date: Oct.<br>1, 27
+  - date: Oct.<br>1, Sep 27
     topics:
       - name: NLP Basis
     #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
@@ -92,15 +92,20 @@ schedule:
     readings:
       - name: The annotated Transformer (blog)
         url: https://nlp.seas.harvard.edu/annotated-transformer/
-      - name: An introduction of Positional Encoding
-        url: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
-    references:
+#      - name: An introduction of Positional Encoding
+#        url: https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
       - name: Transformer
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
-      - name: ViT
-        url: https://arxiv.org/abs/2010.11929
       - name: Rotary Position Embedding
         url: https://arxiv.org/abs/2104.09864
+      
+    references:
+      - name: Relative Position Embedding
+        url: https://arxiv.org/abs/1803.02155
+      - name: ViT
+        url: https://arxiv.org/abs/2010.11929
+      - name: Reformer
+        url: https://arxiv.org/abs/2001.04451
       - name: FlashAttention
         url: https://arxiv.org/abs/2205.14135
   - date: Oct.<br>16, 11
@@ -131,15 +136,13 @@ schedule:
       - name: Large Language Models I - Pre-training and Fine-tuning
     #        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
     readings:
-      - name: Survey of Pre-trained LMs
-        url: https://arxiv.org/pdf/2302.09419
-      - name: LLM Course
-        url: https://github.com/mlabonne/llm-course
-      - name: GPT in 60 Lines of NumPy
-        url: https://jaykmody.com/blog/gpt-from-scratch/
-      - name: Fine-Tune Your Own Llama 2 Model in a Colab Notebook
-        url: https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html
-    references:
+#      - name: Survey of Pre-trained LMs
+#        url: https://arxiv.org/pdf/2302.09419
+#      - name: LLM Course
+#        url: https://github.com/mlabonne/llm-course
+#      - name: Fine-Tune Your Own Llama 2 Model in a Colab Notebook
+#          url: https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html
+
       - name: BERT
         url: https://arxiv.org/pdf/1810.04805
       - name: GPT-3
@@ -152,15 +155,21 @@ schedule:
         url: https://arxiv.org/abs/2104.09864
       - name: Scaling Law
         url: https://arxiv.org/abs/2001.08361
-
+      - name: GPT in 60 Lines of NumPy
+        url: https://jaykmody.com/blog/gpt-from-scratch/
+      - name: Scaling Law
+        url: https://arxiv.org/abs/2001.08361
+    references:
+      - name: XLNet
+        url: https://arxiv.org/abs/1906.08237
+      - name: UL2
+        url: https://arxiv.org/pdf/2205.05131
+      
   - date: Nov.<br>04, 01
     topics:
       - name: Large Language Models II - Prompt Tuning
     #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
-      - name: Prompt Engineering (Blog by Lilian Weng)
-        url: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
-    references:
       - name: Chain-of-Thought
         url: https://arxiv.org/pdf/2201.11903
       - name: Self Consistency
@@ -169,6 +178,13 @@ schedule:
         url: https://arxiv.org/pdf/2210.03629
       - name: Tree of Thoughts
         url: https://arxiv.org/abs/2305.10601
+      - name: Prompt Engineering (Blog by Lilian Weng)
+        url: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+    references:
+      - name: InstructGPT
+        url: https://arxiv.org/abs/2203.02155
+      - name: Automatic Prompt Engineer
+        url: https://arxiv.org/abs/2211.01910
   - date: Nov.<br>11, 08
     topics:
       - name: Generative Models I
