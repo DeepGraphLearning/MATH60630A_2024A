@@ -139,10 +139,7 @@ schedule:
         url: https://arxiv.org/abs/2104.09864
       - name: Scaling Law
         url: https://arxiv.org/abs/2001.08361
-    homeworks:
-      #      - name: Huggingface Sentence Classification (Kaggle)
-      - name: TBD
-  #        url: https://www.kaggle.com/competitions/sentence-classification-competition/overview
+
   - date: Nov.<br>04, 01
     topics:
       - name: Large Language Models II - Prompt Tuning
