@@ -105,19 +105,20 @@ schedule:
         url: https://arxiv.org/abs/2205.14135
   - date: Oct.<br>16, 11
     topics:
-      - name: Introduction to Huggingface & Kaggle Challenge (Notebook)
-    readings:
-      - name: Training a causal language model from scratch (practical guides)
-        url: https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt
-    references:
-      - name: transfer learning (T5)
-        url: https://arxiv.org/abs/1910.10683
-      - name: auto-regressive or causal language model (GPT-2)
-        url: https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
-      - name: Transformers library
-        url: https://huggingface.co/docs/transformers/index
-      - name: Accelerate library
-        url: https://huggingface.co/docs/accelerate/index
+#      - name: Introduction to Huggingface & Kaggle Challenge (Notebook)
+      - name: Course Project QA
+#    readings:
+#      - name: Training a causal language model from scratch (practical guides)
+#        url: https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt
+#    references:
+#      - name: transfer learning (T5)
+#        url: https://arxiv.org/abs/1910.10683
+#      - name: auto-regressive or causal language model (GPT-2)
+#        url: https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+#      - name: Transformers library
+#        url: https://huggingface.co/docs/transformers/index
+#      - name: Accelerate library
+#        url: https://huggingface.co/docs/accelerate/index
     homeworks:
       - name: HW2 (to be announced)
   #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
