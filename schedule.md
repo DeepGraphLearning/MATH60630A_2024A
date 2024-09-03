@@ -189,8 +189,6 @@ schedule:
         url: https://arxiv.org/abs/1312.6114
       - name: GAN
         url: https://arxiv.org/abs/1406.2661
-    references:
-      - name: TBD
   - date: Nov.<br>18, 15
     topics:
       - name: Diffusion, text-to-image generation
@@ -204,7 +202,7 @@ schedule:
         url: https://openai.com/index/sora/
       - name: Kling
         url: https://kling.kuaishou.com/en
-      references:
+    references:
       - name: Diffusion Probabilistic Model
         url: https://arxiv.org/abs/2006.11239
       - name: DALL·E3
