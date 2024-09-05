@@ -251,6 +251,8 @@ schedule:
         url: https://arxiv.org/pdf/1403.6652
       - name: LINE
         url: https://arxiv.org/pdf/1503.03578
+      - name: GIN
+        url: https://arxiv.org/abs/1810.00826
 #      - name: Bayesian Personalized Ranking
 #        url: https://arxiv.org/abs/1205.2618
 #      - name: Factorization Machines
