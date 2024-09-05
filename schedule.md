@@ -184,51 +184,66 @@ schedule:
         url: https://arxiv.org/abs/2211.01910
   - date: Nov.<br>11, 08
     topics:
-      - name: Generative Models I
+      - name: Generative Models
     #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
-      - name: Evidence Lower Bound ELBO — What & Why
-        url: https://yunfanj.com/blog/2021/01/11/ELBO.html
-      - name: From Autoencoder to Beta-VAE
-        url: https://lilianweng.github.io/posts/2018-08-12-vae/
-      - name: From GAN to WGAN
-        url: https://lilianweng.github.io/posts/2017-08-20-gan/
-      - name: Understanding Failure Modes of GAN Training
-        url: https://medium.com/game-of-bits/understanding-failure-modes-of-gan-training-eae62dbcf1dd
-    references:
       - name: VAE
         url: https://arxiv.org/abs/1312.6114
+      - name: Evidence Lower Bound ELBO — What & Why (Blog)
+        url: https://yunfanj.com/blog/2021/01/11/ELBO.html
       - name: GAN
         url: https://arxiv.org/abs/1406.2661
-  - date: Nov.<br>18, 15
-    topics:
-      - name: Diffusion, text-to-image generation
-    #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
-    readings:
-      - name: Hands-on Notebooks "Diffusion Models from Scratch"
-        url: https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb
-      - name: How to Use DALL-E 3 Tips, Examples, and Features
-        url: https://www.datacamp.com/tutorial/an-introduction-to-dalle3
-      - name: Sora
-        url: https://openai.com/index/sora/
-      - name: Kling
-        url: https://kling.kuaishou.com/en
-    references:
       - name: Diffusion Probabilistic Model
         url: https://arxiv.org/abs/2006.11239
+    references:
+      - name: beta-VAE
+        url: https://openreview.net/pdf?id=Sy2fzU9gl
+      - name: CycleGAN
+        url: https://arxiv.org/pdf/1703.10593
+      - name: Latent Diffusion
+        url: https://arxiv.org/abs/2112.10752
+      #- name: From Autoencoder to Beta-VAE
+      #  url: https://lilianweng.github.io/posts/2018-08-12-vae/
+      #- name: From GAN to WGAN
+      #  url: https://lilianweng.github.io/posts/2017-08-20-gan/
+      #- name: Understanding Failure Modes of GAN Training
+      #  url: https://medium.com/game-of-bits/understanding-failure-modes-of-gan-training-eae62dbcf1dd
+  - date: Nov.<br>18, 15
+    topics:
+      - name: Multi-modal Learning
+    #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
+    readings:
       - name: DALL·E3
         url: https://cdn.openai.com/papers/dall-e-3.pdf
       - name: Sora
         url: https://arxiv.org/pdf/2402.17177
+      #- name: Sora
+      #  url: https://openai.com/index/sora/
+      - name: Kling
+        url: https://kling.kuaishou.com/en
+      - name: Flamingo
+        url: https://arxiv.org/abs/2204.14198
+    references:
+      - name: LLaVA 
+        url: https://arxiv.org/abs/2304.08485
+      - name: InstructBLIP
+        url: https://arxiv.org/abs/2305.06500
+      #- name: Hands-on Notebooks "Diffusion Models from Scratch"
+      #  url: https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb
+      #- name: How to Use DALL-E 3 Tips, Examples, and Features
+      #  url: https://www.datacamp.com/tutorial/an-introduction-to-dalle3
+      
   - date: Nov.<br>25, 22
     topics:
       - name: Graph Representation Learning
     #        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
     readings:
-      - name: Design Space for Graph Neural Networks
-        url: https://arxiv.org/pdf/2011.08843
-      - name: A Comprehensive Survey on Graph Neural Networks
-        url: https://arxiv.org/abs/1901.00596
+      - name: GCN
+        url: https://arxiv.org/pdf/1609.02907
+      #- name: Design Space for Graph Neural Networks
+      #  url: https://arxiv.org/pdf/2011.08843
+      #- name: A Comprehensive Survey on Graph Neural Networks
+      #  url: https://arxiv.org/abs/1901.00596
       - name: Graph Neural Networks Implementation Tutorial 
         url: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial7/GNN_overview.html
     references:
@@ -236,8 +251,6 @@ schedule:
         url: https://arxiv.org/pdf/1403.6652
       - name: LINE
         url: https://arxiv.org/pdf/1503.03578
-      - name: GCN
-        url: https://arxiv.org/pdf/1609.02907
 #      - name: Bayesian Personalized Ranking
 #        url: https://arxiv.org/abs/1205.2618
 #      - name: Factorization Machines
