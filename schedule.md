@@ -19,7 +19,7 @@ schedule:
         url: http://www.deeplearningbook.org/contents/ml.html
   - date: Sep.<br>9, 6
     topics:
-      - name: Feedforward Neural Networks & Optimization Tricks
+      - name: Feedforward Neural Networks & Optimization Tricks [<a href="assets/slides/Week2-FFN&Regularization-Fr">Fr</a>]
     #      url: https://www.dropbox.com/s/zv4920r75ek7u4u/Week2-FFN%26Regularization.pdf?dl=0
     readings:
       - name: Deep Learning Book
