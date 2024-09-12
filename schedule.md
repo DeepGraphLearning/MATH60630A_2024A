@@ -31,8 +31,10 @@ schedule:
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: Sep.<br>16, 13
     topics:
+      - name: Introduction to Pytorch
+        url: assets/slides/Pytorch Tutorial 2024A.pdf
       - name: PyTorch part 1
-      #        url: https://www.dropbox.com/s/xpd4fjisk3n08vx/Deep%20Learning%20Frameworks%20part%201.pdf?dl=0
+        url: https://colab.research.google.com/drive/1MV9nuWXinUX5b_7rLwZA5YXzbKnNRJ5W
       - name: PyTorch Part 2
     #        url: https://www.dropbox.com/s/2mzbdnfgah9yimw/Deep%20Learning%20Frameworks%20part%202.pdf?dl=0
     readings:
