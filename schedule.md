@@ -36,7 +36,7 @@ schedule:
       - name: PyTorch part 1
         url: https://colab.research.google.com/drive/1MV9nuWXinUX5b_7rLwZA5YXzbKnNRJ5W
       - name: PyTorch Part 2
-    #        url: https://www.dropbox.com/s/2mzbdnfgah9yimw/Deep%20Learning%20Frameworks%20part%202.pdf?dl=0
+        url: https://colab.research.google.com/drive/1E675lXW-H2kBWGfCQDExEMubivH_Tdm7
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
