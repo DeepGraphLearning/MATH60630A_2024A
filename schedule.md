@@ -47,8 +47,7 @@ schedule:
       - name: Dive into Deep Learning
         url: https://github.com/dsgiitr/d2l-pytorch
     homeworks:
-      - name: HW1 (to be announced)
-  #      - name: Instruction
+      - name: HW1 [<a href="assets/hws/HW1 Instructions-En.pdf">En</a>] [<a  href="assets/hws/HW1 Instructions-Fr.pdf">Fr</a>]
   #        url: https://www.dropbox.com/s/7s19xya7yck4nul/HWK1.pdf?dl=0
   #      - name: Colab
   #        url: https://colab.research.google.com/drive/1FjRjNlBqPVz7SrEPvqrL10Q76NeHhvJW?usp=sharing
