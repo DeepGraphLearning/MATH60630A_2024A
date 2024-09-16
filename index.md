@@ -8,11 +8,11 @@ team:
     url: https://jian-tang.com/
     title: Instructor
     image: assets/images/jian_tang.jpg
-  - name: Jianan Zhao
+  - name: Jianan Zhao (jianan.zhao@mila.quebec)
     url: https://deepgraphlearning.github.io/
     title: Teaching Assistant
     image: assets/images/jianan_zhao.jpeg
-  - name: Xinyu Yuan
+  - name: Xinyu Yuan (xinyu.yuan@mila.quebec)
     url: https://mila.quebec/en/directory/xinyu-yuan
     title: Teaching Assistant
     image: assets/images/xinyu_yuan.jpeg
