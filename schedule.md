@@ -33,10 +33,10 @@ schedule:
     topics:
       - name: Introduction to Pytorch
         url: assets/slides/Pytorch Tutorial 2024A.pdf
-      - name: PyTorch part 1
-        url: https://colab.research.google.com/drive/1MV9nuWXinUX5b_7rLwZA5YXzbKnNRJ5W?usp=sharing
+      - name: PyTorch Part 1
+        url: https://colab.research.google.com/drive/18eGdGZ1x6jQ47l-VgTmPvxPzIDA8KYSA?usp=sharing
       - name: PyTorch Part 2
-        url: https://colab.research.google.com/drive/1E675lXW-H2kBWGfCQDExEMubivH_Tdm7?usp=sharing
+        url: https://colab.research.google.com/drive/1-pCDTNpRGDvQdXUEsoHtYuyl0WgceHEj?usp=sharing
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
