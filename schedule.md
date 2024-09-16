@@ -7,7 +7,7 @@ schedule:
   - date: Aug.<br>26, 30
     topics:
       - name: Introduction [<a href="assets/slides/Week1-Intro-En.pdf">En</a>] [<a href="assets/slides/Week1-Intro-Fr.pdf">Fr</a>]
-      - name: Mathematics [<a href="assets/slides/Week1-Intro-En.pdf">En</a>] [<a href="assets/slides/Week1--Fr.pdf">Fr</a>]
+      - name: Mathematics [<a href="assets/slides/Week1-Maths-En.pdf">En</a>] [<a href="assets/slides/Week1-Maths-Fr.pdf">Fr</a>]
       - name: Machine Learning Basics [<a href="assets/slides/Week1-ML-En.pdf">En</a>] [<a href="assets/slides/Week1-ML-Fr.pdf">Fr</a>]
     readings:
       - name: Deep Learning Book
