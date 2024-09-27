@@ -71,9 +71,11 @@ schedule:
         url: https://arxiv.org/abs/1412.3555
       - name: DenseNet
         url: https://arxiv.org/abs/1608.06993
+        
+#    Week 5
   - date: Oct.<br>1, Sep 27
     topics:
-      - name: NLP Basis
+      - name: NLP Basis [<a  href="assets/slides/Week5-DL4NLP-part1-Fr.pptx">Fr</a>] #[<a href="assets/slides/Week4-CNN&RNN.pptx">En</a>] 
     #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Word2Vec
