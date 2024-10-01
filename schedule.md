@@ -75,7 +75,7 @@ schedule:
 #    Week 5
   - date: Oct.<br>1, Sep 27
     topics:
-      - name: NLP Basis [<a  href="assets/slides/Week5-DL4NLP-part1-Fr.pptx">Fr</a>] #[<a href="assets/slides/Week4-CNN&RNN.pptx">En</a>] 
+      - name: NLP Basis [<a  href="assets/slides/Week5-DL4NLP-part1-Fr.pptx">Fr</a>] [<a href="assets/slides/Week5-DL4NLP-part1-En.pptx">En</a>] 
     #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Word2Vec
@@ -133,7 +133,7 @@ schedule:
   #        url: https://www.kaggle.com/c/math60630aw21
   - date: Oct.<br>28, 25
     topics:
-      - name: Large Language Models I - Pre-training and Fine-tuning
+      - name: Large Language Models I # - Pre-training and Fine-tuning
     #        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
     readings:
 #      - name: Survey of Pre-trained LMs
@@ -147,18 +147,16 @@ schedule:
         url: https://arxiv.org/pdf/1810.04805
       - name: GPT-3
         url: https://arxiv.org/abs/2005.14165
-      - name: T5
-        url: https://arxiv.org/abs/1910.10683
-      - name: Instruction Tuning
-        url: https://arxiv.org/abs/2109.01652
+#      - name: T5
+#        url: https://arxiv.org/abs/1910.10683
+#      - name: Instruction Tuning
+#        url: https://arxiv.org/abs/2109.01652
       - name: LoRA
         url: https://arxiv.org/abs/2104.09864
       - name: Scaling Law
         url: https://arxiv.org/abs/2001.08361
       - name: GPT in 60 Lines of NumPy
         url: https://jaykmody.com/blog/gpt-from-scratch/
-      - name: Scaling Law
-        url: https://arxiv.org/abs/2001.08361
     references:
       - name: XLNet
         url: https://arxiv.org/abs/1906.08237
@@ -167,7 +165,7 @@ schedule:
       
   - date: Nov.<br>04, 01
     topics:
-      - name: Large Language Models II - Prompt Tuning
+      - name: Large Language Models II # - Prompt Tuning
     #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
       - name: Chain-of-Thought
