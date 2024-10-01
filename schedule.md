@@ -75,7 +75,7 @@ schedule:
 #    Week 5
   - date: Oct.<br>1, Sep 27
     topics:
-      - name: NLP Basis [<a  href="assets/slides/Week5-DL4NLP-part1-Fr.pptx">Fr</a>] [<a href="assets/slides/Week5-DL4NLP-part1-En.pptx">En</a>] 
+      - name: NLP Basis [<a href="assets/slides/Week5-DL4NLP-part1-En.pptx">En</a>] [<a  href="assets/slides/Week5-DL4NLP-part1-Fr.pptx">Fr</a>]  
     #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Word2Vec
