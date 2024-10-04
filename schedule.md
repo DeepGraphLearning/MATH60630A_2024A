@@ -87,7 +87,7 @@ schedule:
         url: https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf
   - date: Oct.<br>7, 4
     topics:
-      - name: Attention, Transformers
+      - name: Attention, Transformers [<a  href="assets/slides/Week7-DL4NLP-part2-Fr.pptx">Fr</a>]  
     #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: The annotated Transformer (blog)
