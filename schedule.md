@@ -170,12 +170,12 @@ schedule:
     readings:
       - name: Chain-of-Thought
         url: https://arxiv.org/pdf/2201.11903
-      - name: Self Consistency
-        url: https://arxiv.org/pdf/2203.11171
-      - name: ReAct
-        url: https://arxiv.org/pdf/2210.03629
-      - name: Tree of Thoughts
-        url: https://arxiv.org/abs/2305.10601
+#      - name: Self Consistency
+#        url: https://arxiv.org/pdf/2203.11171
+#      - name: ReAct
+#        url: https://arxiv.org/pdf/2210.03629
+#      - name: Tree of Thoughts
+#        url: https://arxiv.org/abs/2305.10601
       - name: Prompt Engineering (Blog by Lilian Weng)
         url: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
     references:
