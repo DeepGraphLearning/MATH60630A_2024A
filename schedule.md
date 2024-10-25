@@ -133,7 +133,7 @@ schedule:
   #        url: https://www.kaggle.com/c/math60630aw21
   - date: Oct.<br>28, 25
     topics:
-      - name: Large Language Models I # - Pre-training and Fine-tuning
+      - name: Large Language Models I [<a  href="assets/slides/Week8-DL4NLP-part3-French.pptx>Part-1 Fr</a>]  [<a  href="assets/slides/Week8-DL4NLP-part4-French.pptx">Part-2 Fr</a>]   # - Pre-training and Fine-tuning
     #        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
     readings:
 #      - name: Survey of Pre-trained LMs
