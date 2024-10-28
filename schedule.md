@@ -125,7 +125,7 @@ schedule:
 #      - name: Accelerate library
 #        url: https://huggingface.co/docs/accelerate/index
     homeworks:
-      - name: HW2 (to be announced)
+      - name: HW2 [<a href="assets/hws/MATH_60630A_HW2_2024.pdf">En</a>] [<a  href="assets/hws/MATH_60630A_HW2_2024__French_.pdf">Fr</a>]
   #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
   #      - name: Instruction
   #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
