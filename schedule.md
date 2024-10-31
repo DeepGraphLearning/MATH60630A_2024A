@@ -165,7 +165,8 @@ schedule:
       
   - date: Nov.<br>04, 01
     topics:
-      - name: Large Language Models II # - Prompt Tuning
+      - name: Large Language Models II [<a href="assets/slides/Week9-DL4NLP-part4.pptx">En</a>] [<a  href="assets/slides/Week9-DL4NLP-part4-French.pptx">Fr</a>]
+      # - Prompt Tuning
     #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
       - name: Chain-of-Thought
