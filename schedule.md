@@ -186,7 +186,7 @@ schedule:
         url: https://arxiv.org/abs/2211.01910
   - date: Nov.<br>11, 08
     topics:
-      - name: Generative Models
+      - name: Generative Models [<a href="assets/slides/deep-generative-models-1.pptx">En</a>] [<a  href="assets/slides/deep-generative-models-1-French.pptx">Fr</a>]
     #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: VAE
