@@ -212,7 +212,7 @@ schedule:
       #  url: https://medium.com/game-of-bits/understanding-failure-modes-of-gan-training-eae62dbcf1dd
   - date: Nov.<br>18, 15
     topics:
-      - name: Multi-modal Learning
+      - name: Multi-Modality Learning [<a href="assets/slides/MML-English.pptx">En</a>] [<a  href="assets/slides/MML-French.pptx">Fr</a>]
     #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: DALL·E3
