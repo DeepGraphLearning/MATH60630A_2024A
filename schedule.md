@@ -237,7 +237,7 @@ schedule:
       
   - date: Nov.<br>25, 22
     topics:
-      - name: Graph Representation Learning
+      - name: Graph Representation Learning [<a href="assets/slides/Week12-Graph-English.pdf">En</a>] [<a href="assets/slides/Week12-Graph-French.pdf">Fr</a>]
     #        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
     readings:
       - name: GCN
